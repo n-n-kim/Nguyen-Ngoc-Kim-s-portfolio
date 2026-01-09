@@ -25,8 +25,8 @@ export default function Contact() {
     {
       icon: <Mail size={24} />,
       label: "Email",
-      value: "kim1801x5@gmail.com",
-      link: "mailto:kim1801x5@gmail.com",
+      value: "contact@kimnn.com",
+      link: "mailto:contact@kimnn.com",
       color: "hover:bg-cyan-600",
     },
     {
