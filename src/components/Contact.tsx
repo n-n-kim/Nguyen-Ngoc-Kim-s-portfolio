@@ -40,7 +40,7 @@ export default function Contact() {
       icon: <MapPin size={24} />,
       label: "Location",
       value: "Ho Chi Minh, Vietnam (GMT+7)",
-      link: "#",
+      link: "https://share.google/dYmeasQOxsYr8l7qO",
       color: "hover:bg-cyan-600",
     },
   ];
