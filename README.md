@@ -1,8 +1,3 @@
-
-  # Create Portfolio Website
-
-  This is a code bundle for Create Portfolio Website. The original project is available at https://www.figma.com/design/lwTofsSUiOOgUQgLXICrj9/Create-Portfolio-Website.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
