@@ -11,7 +11,7 @@
     const handleDownloadCV = () => {
       // Download CV - replace with your CV file
       const link = document.createElement("a");
-      link.href = "/sample-cv.pdf";
+      link.href = "/Nguyen_Ngoc_Kim_CV.pdf";
       link.download = "CV.pdf";
       link.click();
     };
