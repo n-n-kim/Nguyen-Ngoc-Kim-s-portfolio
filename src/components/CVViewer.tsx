@@ -7,7 +7,7 @@ interface CVViewerProps {
 export default function CVViewer({ onBack }: CVViewerProps) {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Nguyen_Ngoc_Kim_CV.pdf';
+    link.href = '/Nguyen_Ngoc_Kim_CV_v3.pdf';
     link.download = 'Nguyen_Ngoc_Kim_CV.pdf';
     link.click();
   };
