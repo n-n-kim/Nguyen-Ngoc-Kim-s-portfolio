@@ -22,7 +22,7 @@ export default function Experience({ onHireMe }: ExperienceProps) {
 
           <div className="text-center">
             <p className="text-2xl sm:text-3xl text-gray-300 mb-8">
-              Need an internship, still no experience
+              #opentowork
             </p>
 
             <div className="inline-block">

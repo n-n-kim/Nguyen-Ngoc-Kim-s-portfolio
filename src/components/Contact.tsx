@@ -20,7 +20,7 @@ export default function Contact() {
       label: "GitHub",
       value: "n-n-kim",
       link: "https://github.com/n-n-kim",
-      color: "hover:bg-cyan-700",
+      color: "hover:bg-cyan-600",
     },
     {
       icon: <Mail size={24} />,
@@ -34,13 +34,13 @@ export default function Contact() {
       label: "Phone",
       value: "+84 817 723 439",
       link: "tel:+84817723439",
-      color: "hover:bg-cyan-700",
+      color: "hover:bg-cyan-600",
     },
     {
       icon: <MapPin size={24} />,
       label: "Location",
       value: "Ho Chi Minh, Vietnam (GMT+7)",
-      link: null,
+      link: "#",
       color: "hover:bg-cyan-600",
     },
   ];
