@@ -36,7 +36,7 @@ export default function CVViewer({ onBack }: CVViewerProps) {
         {/* PDF Viewer */}
         <div className="bg-white rounded-lg shadow-2xl overflow-hidden">
           <iframe
-            src="/Nguyen_Ngoc_Kim_CV.pdf"
+            src="/Nguyen_Ngoc_Kim_CV_v3.pdf"
             className="w-full h-[calc(100vh-12rem)]"
             title="CV Preview"
           />
