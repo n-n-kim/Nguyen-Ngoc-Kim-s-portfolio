@@ -9,17 +9,7 @@ import {
 
 export default function Skills() {
   const skillCategories = [
-    {
-      icon: <Code2 size={24} />,
-      title: "Programming Languages",
-      skills: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "C++",
-      ],
-    },
+
     {
       icon: <Globe size={24} />,
       title: "Web Development",
